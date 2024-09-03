@@ -1,5 +1,4 @@
-Door Lock Controller - Arduino Project
-AI Generated Overview
+Door Lock Controller - Arduino Project - Minimal Effort AI Generated Overview
 
 This project is an Arduino-based door lock controller that uses Wi-Fi to provide remote control via a web interface. The controller operates three relays to manage the locking and unlocking mechanism, with options to configure timings for the lock and unlock actions. The web interface allows you to lock, unlock, and adjust settings for the door lock mechanism.
 Components
